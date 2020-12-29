@@ -14,7 +14,7 @@ The dataset used is provided. The data distribution followed:
 </p>
 
 ### Model
-It was used a pre-trained Resnet-18 model on ImageNet. Transfer learning was applied, replacing the standard fully convolutional layer with 1000 output features to just 3, accordingly to the three types of cases.
+It was used a pre-trained Resnet-18 model on ImageNet. Transfer learning was applied, replacing the standard fully convolutional layer with 1000 output features to just 3, according to the three types of cases.
 
 For aditional info check the notebook.
 
@@ -22,11 +22,9 @@ For aditional info check the notebook.
   <img src="https://github.com/MKSK22/Detecting_Covid19_fromChestXrays/blob/main/resnet18.png"/>
 </p>
 
-
-
 ### Results
 
-
+The model reach a 95% accuracy in the test phase.
 
 <p align="center">
   <img src="https://github.com/MKSK22/Detecting_Covid19_fromChestXrays/blob/main/pred.png"/>
