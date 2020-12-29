@@ -18,7 +18,7 @@ It was used a pre-trained Resnet-18 model on ImageNet. Transfer learning was app
 
 For aditional info check the notebook.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/MKSK22/Detecting_Covid19_fromChestXrays/blob/main/resnet18.png"/>
 </p>
 
