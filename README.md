@@ -9,7 +9,7 @@ The dataset used is provided. The data distribution followed:
 | Train | 1311 | 1315 | 1113 | 3739 |
 |  Test |  30 | 30 | 30 | 90 |
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/MKSK22/Detecting_Covid19_fromChestXrays/blob/main/covid_samples.png"/>
 </p>
 
@@ -18,7 +18,7 @@ It was used a pre-trained Resnet-18 model on ImageNet. Transfer learning was app
 
 For aditional info check the notebook.
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/MKSK22/Detecting_Covid19_fromChestXrays/blob/main/resnet18.png"/>
 </p>
 
